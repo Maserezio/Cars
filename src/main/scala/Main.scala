@@ -4,6 +4,7 @@ import net.ruippeixotog.scalascraper.dsl.DSL.Extract._
 import net.liftweb.json._
 import net.liftweb.json.JsonDSL._
 
+import java.io.{File, PrintWriter}
 import scala.collection.mutable.ListBuffer
 
 object Main {
@@ -21,23 +22,28 @@ object Main {
 
   def main(args: Array[String]) = {
 
-    val listOfPages = getListOfCars(pages(0))
-    listOfPages ++= getListOfCars(pages(1))
-    listOfPages ++= getListOfCars(pages(2))
-    listOfPages ++= getListOfCars(pages(3))
-    listOfPages ++= getListOfCars(pages(4))
-    listOfPages ++= getListOfCars(pages(5))
-    listOfPages ++= getListOfCars(pages(6))
-    listOfPages ++= getListOfCars(pages(7))
+    val listOfCars = getListOfCars(pages.head)
+    for (i <- 1 until pages.size - 1)
+      listOfCars ++= getListOfCars(pages(i))
 
-  val jsonList = ListBuffer[String]().empty
-    for (i <- listOfPages.indices) {
-      jsonList += parse(listOfPages(i))
+
+    try {
+      val pw = new PrintWriter(new File("JSON.json"))
+      pw.write("["+"\n")
+      for (i <- listOfCars.indices) {
+        pw.write(parse(listOfCars(i)) + ",\n")
+      }
+      pw.write("]")
+      pw.close
+    } catch {
+      case e: Exception => println("Error: %s".format(e.getMessage))
+    } finally {
+      println("JSONs written to file!")
     }
   }
 
 
-  def getListOfCars(_page: String) = {
+  private def getListOfCars(_page: String) = {
     val page = JsoupBrowser().get(_page)
     val names = ListBuffer.empty ++= (page >> elementList(".logo-list li a") >> attr("alt")("img"))
       .map(i => i.substring(0, i.length - 5))
@@ -60,6 +66,7 @@ object Main {
         ).toList
       }
     }
+
     listOfPages
   }
 
