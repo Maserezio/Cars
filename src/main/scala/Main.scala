@@ -29,16 +29,19 @@ object Main {
 
     try {
       val pw = new PrintWriter(new File("JSON.json"))
-      pw.write("["+"\n")
-      for (i <- listOfCars.indices) {
-        pw.write(parse(listOfCars(i)) + ",\n")
+      pw.write("[")
+      for (i <-listOfCars.indices) {
+        if (i != listOfCars.size - 1)
+          pw.write(parse(listOfCars(i)) + ",\n")
+        else
+          pw.write(parse(listOfCars(i)))
       }
       pw.write("]")
       pw.close
     } catch {
       case e: Exception => println("Error: %s".format(e.getMessage))
     } finally {
-      println("JSONs written to file!")
+      println("Writing to file finished!")
     }
   }
 

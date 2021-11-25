@@ -1,5 +1,4 @@
-[
-{
+[{
   "name":"Tesla",
   "specialization":[
     "Luxury Electric Vehicles"
@@ -2601,4 +2600,502 @@
   "site":"www.hongyantruck.com"
 },
 {
-  "name":"D
+  "name":"Dayun",
+  "specialization":[
+    "Trucks"
+  ],
+  "founded":"1987",
+  "founder":[],
+  "country":"China",
+  "site":"www.dayuncn.com"
+},
+{
+  "name":"BeiBen",
+  "specialization":[
+    "Trucks"
+  ],
+  "founded":"1988",
+  "founder":[],
+  "country":"China",
+  "site":"www.beiben.cn"
+},
+{
+  "name":"CAMC",
+  "specialization":[
+    "Trucks"
+  ],
+  "founded":"1999",
+  "founder":[],
+  "country":"China",
+  "site":"www.camc.cc"
+},
+{
+  "name":"Yutong",
+  "specialization":[
+    "Buses"
+  ],
+  "founded":"1963",
+  "founder":[],
+  "country":"China",
+  "site":"www.yutong.com"
+},
+{
+  "name":"King Long",
+  "specialization":[
+    "Buses",
+    "Minibuses"
+  ],
+  "founded":"1988",
+  "founder":[],
+  "country":"China",
+  "site":"www.king-long.com"
+},
+{
+  "name":"Golden Dragon",
+  "specialization":[
+    "Buses"
+  ],
+  "founded":"1992",
+  "founder":[],
+  "country":"China",
+  "site":"www.xmjl.com"
+},
+{
+  "name":"Zhongtong",
+  "specialization":[
+    "Buses"
+  ],
+  "founded":"1958",
+  "founder":[],
+  "country":"China",
+  "site":"www.zhongtongbuses.com"
+},
+{
+  "name":"Higer",
+  "specialization":[
+    "Buses"
+  ],
+  "founded":"1998",
+  "founder":[],
+  "country":"China",
+  "site":"www.higer.com"
+},
+{
+  "name":"AC",
+  "specialization":[
+    "Sports Cars"
+  ],
+  "founded":"1901",
+  "founder":[
+    "Weller Brothers"
+  ],
+  "country":"United Kingdom",
+  "site":"www.ac-automotive.com"
+},
+{
+  "name":"Atalanta",
+  "specialization":[
+    "Vintage Sports Cars"
+  ],
+  "founded":"2011",
+  "founder":[
+    "Martyn Corfield"
+  ],
+  "country":"United Kingdom",
+  "site":"www.atalantamotors.com"
+},
+{
+  "name":"BAC",
+  "specialization":[
+    "Road-legal Sport Cars"
+  ],
+  "founded":"2009",
+  "founder":[
+    "Neill Briggs",
+    "Ian Briggs"
+  ],
+  "country":"United Kingdom",
+  "site":"www.bac-mono.com"
+},
+{
+  "name":"Bitter",
+  "specialization":[
+    "Sports-Luxury"
+  ],
+  "founded":"1971",
+  "founder":[
+    "Erich Bitter"
+  ],
+  "country":"Germany",
+  "site":"www.bitter-automotive.de"
+},
+{
+  "name":"Bowler",
+  "specialization":[
+    "Off-Road Racing"
+  ],
+  "founded":"1985",
+  "founder":[
+    "Andrew Bowler"
+  ],
+  "country":"United Kingdom",
+  "site":"www.bowlermotorsport.com"
+},
+{
+  "name":"Bufori",
+  "specialization":[
+    "Luxury Cars"
+  ],
+  "founded":"1986",
+  "founder":[
+    "Khouri Brothers"
+  ],
+  "country":"Malaysia",
+  "site":"www.bufori.com"
+},
+{
+  "name":"Changfeng",
+  "specialization":[
+    "Light Trucks"
+  ],
+  "founded":"1950",
+  "founder":[],
+  "country":"China",
+  "site":""
+},
+{
+  "name":"Dartz",
+  "specialization":[
+    "Armored Vehicles"
+  ],
+  "founded":"",
+  "founder":[],
+  "country":"Latvia",
+  "site":"www.dartz.us"
+},
+{
+  "name":"Donkervoort",
+  "specialization":[
+    "Roadsters"
+  ],
+  "founded":"1978",
+  "founder":[
+    "J.A. Donkervoort"
+  ],
+  "country":"Netherlands",
+  "site":"www.donkervoort.com"
+},
+{
+  "name":"EDAG",
+  "specialization":[
+    "Concept Cars"
+  ],
+  "founded":"1969",
+  "founder":[
+    "Horst Eckard"
+  ],
+  "country":"Germany",
+  "site":"www.edag.de"
+},
+{
+  "name":"Elfin",
+  "specialization":[
+    "Roadsters"
+  ],
+  "founded":"1957",
+  "founder":[
+    "Garrie Cooper"
+  ],
+  "country":"Australia",
+  "site":"www.elfin.com.au"
+},
+{
+  "name":"Force",
+  "specialization":[
+    "Commercial Vehicles"
+  ],
+  "founded":"1958",
+  "founder":[
+    "Dr. Abhay Firodia"
+  ],
+  "country":"India",
+  "site":"www.forcemotors.com"
+},
+{
+  "name":"Haima",
+  "specialization":[
+    "Economy Cars"
+  ],
+  "founded":"1992",
+  "founder":[],
+  "country":"China",
+  "site":"www.en.haima.com"
+},
+{
+  "name":"Hawtai",
+  "specialization":[
+    "SUVs",
+    "Sedans"
+  ],
+  "founded":"2000",
+  "founder":[],
+  "country":"China",
+  "site":"www.hawtaimotor.com"
+},
+{
+  "name":"IKCO",
+  "specialization":[
+    "Economy Cars"
+  ],
+  "founded":"1962",
+  "founder":[
+    "Khayami family"
+  ],
+  "country":"Iran",
+  "site":"www.ikco.ir/en/"
+},
+{
+  "name":"JAC",
+  "specialization":[
+    "Economy Cars"
+  ],
+  "founded":"1964",
+  "founder":[],
+  "country":"China",
+  "site":"www.jac.com.cn"
+},
+{
+  "name":"Jawa",
+  "specialization":[
+    "Manufacturer"
+  ],
+  "founded":"1929",
+  "founder":[
+    "František Janeček"
+  ],
+  "country":"Czech Republic",
+  "site":"www.jawa.eu"
+},
+{
+  "name":"JBA Motors",
+  "specialization":[
+    "Luxury Cars"
+  ],
+  "founded":"1982",
+  "founder":[],
+  "country":"United Kingdom",
+  "site":"www.jbamotors.co.uk"
+},
+{
+  "name":"JMC",
+  "specialization":[
+    "Pickup",
+    "Vans"
+  ],
+  "founded":"1968",
+  "founder":[],
+  "country":"China",
+  "site":"www.jmc.com.cn"
+},
+{
+  "name":"Landwind",
+  "specialization":[
+    "Compact SUVs"
+  ],
+  "founded":"2002",
+  "founder":[],
+  "country":"China",
+  "site":"www.landwind.com"
+},
+{
+  "name":"Lifan",
+  "specialization":[
+    "Economy Cars"
+  ],
+  "founded":"1992",
+  "founder":[
+    "Yin Mingshan"
+  ],
+  "country":"China",
+  "site":"www.lifan.com"
+},
+{
+  "name":"Lobini",
+  "specialization":[
+    "Sports Cars"
+  ],
+  "founded":"1999",
+  "founder":[
+    "José Orlando Lobo",
+    "Fábio Birolini"
+  ],
+  "country":"Brazil",
+  "site":"www.lobini.com.br"
+},
+{
+  "name":"Maxus",
+  "specialization":[
+    "Pickup",
+    "Vans"
+  ],
+  "founded":"2011",
+  "founder":[],
+  "country":"China",
+  "site":"www.saicmaxus.com"
+},
+{
+  "name":"Morgan",
+  "specialization":[
+    "Sports Cars",
+    "Trikes"
+  ],
+  "founded":"1910",
+  "founder":[
+    "H.F.S. Morgan"
+  ],
+  "country":"United Kingdom",
+  "site":"www.morgan-motor.co.uk"
+},
+{
+  "name":"Roewe",
+  "specialization":[
+    "Compact Cars"
+  ],
+  "founded":"2006",
+  "founder":[],
+  "country":"China",
+  "site":"www.roewe.com.cn"
+},
+{
+  "name":"Spirra",
+  "specialization":[
+    "Sports Cars"
+  ],
+  "founded":"2007",
+  "founder":[],
+  "country":"South Korea",
+  "site":""
+},
+{
+  "name":"Venucia",
+  "specialization":[
+    "Economy Cars"
+  ],
+  "founded":"2010",
+  "founder":[],
+  "country":"China",
+  "site":"www.venucia.com"
+},
+{
+  "name":"Westfield",
+  "specialization":[
+    "Roadsters"
+  ],
+  "founded":"1982",
+  "founder":[
+    "Chris Smith"
+  ],
+  "country":"United Kingdom",
+  "site":"www.westfield-sportscars.co.uk"
+},
+{
+  "name":"Wiesmann",
+  "specialization":[
+    "Convertibles"
+  ],
+  "founded":"1988",
+  "founder":[
+    "Martin Wiesmann",
+    "Friedhelm Wiesmann"
+  ],
+  "country":"Germany",
+  "site":"www.wiesmann.com"
+},
+{
+  "name":"Axon",
+  "specialization":[
+    "Small Cars"
+  ],
+  "founded":"2005",
+  "founder":[],
+  "country":"United Kingdom",
+  "site":"www.axonautomotive.com"
+},
+{
+  "name":"Bristol",
+  "specialization":[
+    "Luxury Cars"
+  ],
+  "founded":"1945",
+  "founder":[],
+  "country":"United Kingdom",
+  "site":"www.bristolcars.co.uk"
+},
+{
+  "name":"Brooke",
+  "specialization":[
+    "Sports Cars"
+  ],
+  "founded":"2002",
+  "founder":[],
+  "country":"United Kingdom",
+  "site":"www.brookecars.co.uk"
+},
+{
+  "name":"Elva",
+  "specialization":[
+    "Racing Cars"
+  ],
+  "founded":"1955",
+  "founder":[
+    "Frank G. Nichols"
+  ],
+  "country":"United Kingdom",
+  "site":"www.elva.com"
+},
+{
+  "name":"Fioravanti",
+  "specialization":[
+    "Automotive",
+    "Design"
+  ],
+  "founded":"1987",
+  "founder":[
+    "Leonardo Fioravanti"
+  ],
+  "country":"Italy",
+  "site":"www.fioravanti.it"
+},
+{
+  "name":"Gardner Douglas",
+  "specialization":[
+    "Sports Cars"
+  ],
+  "founded":"1990",
+  "founder":[],
+  "country":"United Kingdom",
+  "site":"www.gdcars.com"
+},
+{
+  "name":"Gillet",
+  "specialization":[
+    "Hand-Built Cars"
+  ],
+  "founded":"1992",
+  "founder":[
+    "Tony Gillet"
+  ],
+  "country":"Belgian",
+  "site":"www.gilletvertigo.com"
+},
+{
+  "name":"Gonow",
+  "specialization":[
+    "Vehicles",
+    "SUVs"
+  ],
+  "founded":"2003",
+  "founder":[],
+  "country":"China",
+  "site":"www.gonowauto.com"
+}]
