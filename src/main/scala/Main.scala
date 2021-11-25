@@ -26,11 +26,10 @@ object Main {
     for (i <- 1 until pages.size - 1)
       listOfCars ++= getListOfCars(pages(i))
 
-
     try {
       val pw = new PrintWriter(new File("JSON.json"))
       pw.write("[")
-      for (i <-listOfCars.indices) {
+      for (i <- listOfCars.indices) {
         if (i != listOfCars.size - 1)
           pw.write(parse(listOfCars(i)) + ",\n")
         else
@@ -43,6 +42,7 @@ object Main {
     } finally {
       println("Writing to file finished!")
     }
+
   }
 
 
@@ -81,20 +81,14 @@ object Main {
       val info = ListBuffer.empty ++= (page >> elementList(".brand-overview p").map(_ >> allText("p")))
         .filter(el => el.contains("Founded") || el.contains("Founder") || el.contains("Headquarters") || el.contains("Official Site"))
 
-      val founded = if (info.find(_.contains("Founded:")) != None) getFounded(info.find(_.contains("Founded:")).get) else ""
-      val founder = if (info.find(_.contains("Founder:")) != None) getFounder(info.find(_.contains("Founder: ")).get) else List.empty
-      val head = if (info.find(_.contains("Headquarters:")) != None) getHeadquarters(info.find(_.contains("Headquarters:")).get) else ""
-      val site = if (info.find(_.contains("Official Site:")) != None) getSite(info.find(_.contains("Official Site:")).get) else ""
-
-
-      val json = ("name" -> preview.head.toString) ~
-        ("specialization" -> preview(1).asInstanceOf[List[String]]) ~
-        ("founded" -> founded) ~
-        ("founder" -> founder) ~
-        ("country" -> head) ~
-        ("site" -> site)
-
-      prettyRender(json)
+      formJSON(
+        preview.head.toString,
+        preview(1).asInstanceOf[List[String]],
+        if (info.find(_.contains("Founded:")) != None) getFounded(info.find(_.contains("Founded:")).get) else "",
+        if (info.find(_.contains("Founder:")) != None) getFounder(info.find(_.contains("Founder: ")).get) else List.empty,
+        if (info.find(_.contains("Headquarters:")) != None) getHeadquarters(info.find(_.contains("Headquarters:")).get) else "",
+        if (info.find(_.contains("Official Site:")) != None) getSite(info.find(_.contains("Official Site:")).get) else ""
+      )
     }
     else {
       val raw = (page >> elementList(".content table tbody tr").map(_ >> elementList("td"))).drop(1)
@@ -112,21 +106,25 @@ object Main {
       }
       val finalList = parsedRaw.filter(el => el.contains("Founded:") || el.contains("Founder:") || el.contains("Headquarters:") || el.contains("Official Site:"))
 
-      val founded = if (finalList.find(_.contains("Founded:")) != None) getFounded(finalList.find(_.contains("Founded:")).get) else ""
-      val founder = if (finalList.find(_.contains("Founder:")) != None) getFounder(finalList.find(_.contains("Founder:")).get) else List.empty
-      val head = if (finalList.find(_.contains("Headquarters:")) != None) getHeadquarters(finalList.find(_.contains("Headquarters:")).get) else ""
-      val site = if (finalList.find(_.contains("Official Site:")) != None) getSite(finalList.find(_.contains("Official Site:")).get) else ""
-
-      val json = ("name" -> preview.head.toString) ~
-        ("specialization" -> preview(1).asInstanceOf[List[String]]) ~
-        ("founded" -> founded) ~
-        ("founder" -> founder) ~
-        ("country" -> head) ~
-        ("site" -> site)
-
-      prettyRender(json)
+      formJSON(
+        preview.head.toString,
+        preview(1).asInstanceOf[List[String]],
+        if (finalList.find(_.contains("Founded:")) != None) getFounded(finalList.find(_.contains("Founded:")).get) else "",
+        if (finalList.find(_.contains("Founder:")) != None) getFounder(finalList.find(_.contains("Founder: ")).get) else List.empty,
+        if (finalList.find(_.contains("Headquarters:")) != None) getHeadquarters(finalList.find(_.contains("Headquarters:")).get) else "",
+        if (finalList.find(_.contains("Official Site:")) != None) getSite(finalList.find(_.contains("Official Site:")).get) else ""
+      )
     }
   }
+
+  private def formJSON(name: String, spec: List[String], founded: String, founder: List[String], country: String, site: String) = prettyRender(
+    ("name" -> name) ~
+      ("specialization" -> spec) ~
+      ("founded" -> founded) ~
+      ("founder" -> founder) ~
+      ("country" -> country) ~
+      ("site" -> site)
+  )
 
   private def getFounded(str: String) = "\\d{4}".r.findFirstMatchIn(str).mkString("")
 
