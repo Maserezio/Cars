@@ -1,0 +1,14 @@
+{
+  "name":"BMW",
+  "specialization":[
+    "Luxury Vehicles"
+  ],
+  "founded":"1916",
+  "founder":[
+    "Karl Rapp",
+    "Camillo Castiglioni",
+    "Franz Josef Popp"
+  ],
+  "country":"Germany",
+  "site":"www.bmw.com"
+}

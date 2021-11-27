@@ -1,0 +1,12 @@
+{
+  "name":"Praga",
+  "specialization":[
+    "Cars",
+    "Karts",
+    "Planes"
+  ],
+  "founded":"1907",
+  "founder":[],
+  "country":"Czech republic",
+  "site":"www.pragaglobal.com"
+}

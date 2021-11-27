@@ -1,0 +1,13 @@
+{
+  "name":"Mercedes-Benz",
+  "specialization":[
+    "Luxury Vehicles"
+  ],
+  "founded":"1926",
+  "founder":[
+    "Karl Benz",
+    "Gottlieb Daimler"
+  ],
+  "country":"Germany",
+  "site":"www.mercedes-benz.com"
+}

@@ -1,0 +1,12 @@
+{
+  "name":"Ferrari",
+  "specialization":[
+    "Luxury Sports Cars"
+  ],
+  "founded":"1947",
+  "founder":[
+    "Enzo Ferrari"
+  ],
+  "country":"Italy",
+  "site":"www.ferrari.com"
+}

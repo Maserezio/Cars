@@ -1,0 +1,14 @@
+{
+  "name":"Dodge",
+  "specialization":[
+    "Performance Cars",
+    "Other"
+  ],
+  "founded":"1900",
+  "founder":[
+    "John Francis Dodge",
+    "Horace Elgin Dodge"
+  ],
+  "country":"United States",
+  "site":"www.dodge.com"
+}

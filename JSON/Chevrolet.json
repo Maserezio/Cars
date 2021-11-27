@@ -1,0 +1,13 @@
+{
+  "name":"Chevrolet",
+  "specialization":[
+    "Mass-Market Cars"
+  ],
+  "founded":"1911",
+  "founder":[
+    "Louis Chevrolet",
+    "William C. Durant"
+  ],
+  "country":"United States",
+  "site":"www.chevrolet.com"
+}

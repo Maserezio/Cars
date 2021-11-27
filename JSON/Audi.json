@@ -1,0 +1,12 @@
+{
+  "name":"Audi",
+  "specialization":[
+    "Luxury Vehicles"
+  ],
+  "founded":"1909",
+  "founder":[
+    "August Horch"
+  ],
+  "country":"Germany",
+  "site":"www.audi.com"
+}
