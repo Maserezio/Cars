@@ -176,7 +176,7 @@ object Main {
     println("Written to MongoDB!")
   }
 
-  private def c() = {
+  private def queries() = {
     val uri = "mongodb://localhost:27017"
     val client: MongoClient = MongoClient(uri)
     val db: MongoDatabase = client.getDatabase("cars")
