@@ -1,13 +1,1 @@
-{
-  "name":"Škoda",
-  "specialization":[
-    "Mass-Market Cars"
-  ],
-  "founded":"1895",
-  "founder":[
-    "Václav Laurin",
-    "Václav Klement"
-  ],
-  "country":"Czech Republic",
-  "site":"www.skoda-auto.com"
-}
+{"name":"Škoda","specialization":["Mass-Market Cars"],"founded":"1895","founder":["Václav Laurin","Václav Klement"],"country":"Czech Republic","site":"www.skoda-auto.com"}

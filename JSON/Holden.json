@@ -1,13 +1,1 @@
-{
-  "name":"Holden",
-  "specialization":[
-    "Mass-Market Cars"
-  ],
-  "founded":"1856",
-  "founder":[
-    "James Alexander Holden (original firm)",
-    "Edward Holden (automobile division)"
-  ],
-  "country":"Australia",
-  "site":"www.holden.com.au"
-}
+{"name":"Holden","specialization":["Mass-Market Cars"],"founded":"1856","founder":["James Alexander Holden (original firm)","Edward Holden (automobile division)"],"country":"Australia","site":"www.holden.com.au"}

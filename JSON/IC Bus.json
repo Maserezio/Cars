@@ -1,10 +1,1 @@
-{
-  "name":"IC Bus",
-  "specialization":[
-    "School Bus"
-  ],
-  "founded":"2002",
-  "founder":[],
-  "country":"United States",
-  "site":"www.icbus.com"
-}
+{"name":"IC Bus","specialization":["School Bus"],"founded":"2002","founder":[],"country":"United States","site":"www.icbus.com"}

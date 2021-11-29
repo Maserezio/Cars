@@ -1,12 +1,1 @@
-{
-  "name":"Navistar",
-  "specialization":[
-    "Manufacturer"
-  ],
-  "founded":"1993",
-  "founder":[
-    "International Harvester Company"
-  ],
-  "country":"U.S.",
-  "site":"www.navistar.com"
-}
+{"name":"Navistar","specialization":["Manufacturer"],"founded":"1993","founder":["International Harvester Company"],"country":"U.S.","site":"www.navistar.com"}

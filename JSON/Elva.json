@@ -1,12 +1,1 @@
-{
-  "name":"Elva",
-  "specialization":[
-    "Racing Cars"
-  ],
-  "founded":"1955",
-  "founder":[
-    "Frank G. Nichols"
-  ],
-  "country":"United Kingdom",
-  "site":"www.elva.com"
-}
+{"name":"Elva","specialization":["Racing Cars"],"founded":"1955","founder":["Frank G. Nichols"],"country":"United Kingdom","site":"www.elva.com"}

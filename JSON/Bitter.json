@@ -1,12 +1,1 @@
-{
-  "name":"Bitter",
-  "specialization":[
-    "Sports-Luxury"
-  ],
-  "founded":"1971",
-  "founder":[
-    "Erich Bitter"
-  ],
-  "country":"Germany",
-  "site":"www.bitter-automotive.de"
-}
+{"name":"Bitter","specialization":["Sports-Luxury"],"founded":"1971","founder":["Erich Bitter"],"country":"Germany","site":"www.bitter-automotive.de"}

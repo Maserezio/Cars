@@ -1,14 +1,1 @@
-{
-  "name":"Alfa Romeo",
-  "specialization":[
-    "Luxury Vehicles"
-  ],
-  "founded":"1910",
-  "founder":[
-    "Nicola Romeo",
-    "Ugo Stella",
-    "Alexandre Darracq"
-  ],
-  "country":"Italy",
-  "site":"www.alfaromeo.com"
-}
+{"name":"Alfa Romeo","specialization":["Luxury Vehicles"],"founded":"1910","founder":["Nicola Romeo","Ugo Stella","Alexandre Darracq"],"country":"Italy","site":"www.alfaromeo.com"}

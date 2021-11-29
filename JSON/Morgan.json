@@ -1,13 +1,1 @@
-{
-  "name":"Morgan",
-  "specialization":[
-    "Sports Cars",
-    "Trikes"
-  ],
-  "founded":"1910",
-  "founder":[
-    "H.F.S. Morgan"
-  ],
-  "country":"United Kingdom",
-  "site":"www.morgan-motor.co.uk"
-}
+{"name":"Morgan","specialization":["Sports Cars","Trikes"],"founded":"1910","founder":["H.F.S. Morgan"],"country":"United Kingdom","site":"www.morgan-motor.co.uk"}

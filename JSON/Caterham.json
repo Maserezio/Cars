@@ -1,12 +1,1 @@
-{
-  "name":"Caterham",
-  "specialization":[
-    "Roadsters"
-  ],
-  "founded":"1973",
-  "founder":[
-    "Graham Nearn"
-  ],
-  "country":"United Kingdom",
-  "site":"www.caterhamcars.com"
-}
+{"name":"Caterham","specialization":["Roadsters"],"founded":"1973","founder":["Graham Nearn"],"country":"United Kingdom","site":"www.caterhamcars.com"}

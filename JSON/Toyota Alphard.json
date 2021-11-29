@@ -1,10 +1,1 @@
-{
-  "name":"Toyota Alphard",
-  "specialization":[
-    "Luxury MPV"
-  ],
-  "founded":"2002",
-  "founder":[],
-  "country":"",
-  "site":"toyota.jp/alphard/"
-}
+{"name":"Toyota Alphard","specialization":["Luxury MPV"],"founded":"2002","founder":[],"country":"","site":"toyota.jp/alphard/"}

@@ -1,12 +1,1 @@
-{
-  "name":"Ligier",
-  "specialization":[
-    "Small Cars"
-  ],
-  "founded":"1968",
-  "founder":[
-    "Guy Ligier"
-  ],
-  "country":"France",
-  "site":"www.ligier.fr"
-}
+{"name":"Ligier","specialization":["Small Cars"],"founded":"1968","founder":["Guy Ligier"],"country":"France","site":"www.ligier.fr"}

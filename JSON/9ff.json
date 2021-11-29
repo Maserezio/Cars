@@ -1,12 +1,1 @@
-{
-  "name":"9ff",
-  "specialization":[
-    "Car Tuning"
-  ],
-  "founded":"2001",
-  "founder":[
-    "Jan Fatthauer"
-  ],
-  "country":"Germany",
-  "site":"www.9ff.com"
-}
+{"name":"9ff","specialization":["Car Tuning"],"founded":"2001","founder":["Jan Fatthauer"],"country":"Germany","site":"www.9ff.com"}

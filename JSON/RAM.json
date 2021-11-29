@@ -1,13 +1,1 @@
-{
-  "name":"RAM",
-  "specialization":[
-    "Pickup Trucks",
-    "Vans"
-  ],
-  "founded":"2010",
-  "founder":[
-    "Fargo Trucks"
-  ],
-  "country":"United States",
-  "site":"www.ramtrucks.com"
-}
+{"name":"RAM","specialization":["Pickup Trucks","Vans"],"founded":"2010","founder":["Fargo Trucks"],"country":"United States","site":"www.ramtrucks.com"}

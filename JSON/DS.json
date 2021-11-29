@@ -1,12 +1,1 @@
-{
-  "name":"DS",
-  "specialization":[
-    "Luxury Vehicles"
-  ],
-  "founded":"2009",
-  "founder":[
-    "Groupe PSA"
-  ],
-  "country":"France",
-  "site":"www.dsautomobiles.com"
-}
+{"name":"DS","specialization":["Luxury Vehicles"],"founded":"2009","founder":["Groupe PSA"],"country":"France","site":"www.dsautomobiles.com"}

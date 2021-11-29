@@ -1,13 +1,1 @@
-{
-  "name":"Nissan",
-  "specialization":[
-    "Mass-Market Cars"
-  ],
-  "founded":"1933",
-  "founder":[
-    "Masujiro Hashimoto",
-    "Yoshisuke Aikawa"
-  ],
-  "country":"Japan",
-  "site":"www.nissan-global.com"
-}
+{"name":"Nissan","specialization":["Mass-Market Cars"],"founded":"1933","founder":["Masujiro Hashimoto","Yoshisuke Aikawa"],"country":"Japan","site":"www.nissan-global.com"}

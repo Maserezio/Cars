@@ -1,12 +1,1 @@
-{
-  "name":"Mini",
-  "specialization":[
-    "Luxury Small Cars"
-  ],
-  "founded":"1959",
-  "founder":[
-    "Alec Issigonis"
-  ],
-  "country":"United Kingdom",
-  "site":"www.mini.com"
-}
+{"name":"Mini","specialization":["Luxury Small Cars"],"founded":"1959","founder":["Alec Issigonis"],"country":"United Kingdom","site":"www.mini.com"}

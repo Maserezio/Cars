@@ -1,12 +1,1 @@
-{
-  "name":"BYD",
-  "specialization":[
-    "Economy Cars"
-  ],
-  "founded":"1995",
-  "founder":[
-    "Wang Chuanfu"
-  ],
-  "country":"China",
-  "site":"www.byd.com"
-}
+{"name":"BYD","specialization":["Economy Cars"],"founded":"1995","founder":["Wang Chuanfu"],"country":"China","site":"www.byd.com"}

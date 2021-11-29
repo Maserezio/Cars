@@ -1,10 +1,1 @@
-{
-  "name":"Roewe",
-  "specialization":[
-    "Compact Cars"
-  ],
-  "founded":"2006",
-  "founder":[],
-  "country":"China",
-  "site":"www.roewe.com.cn"
-}
+{"name":"Roewe","specialization":["Compact Cars"],"founded":"2006","founder":[],"country":"China","site":"www.roewe.com.cn"}

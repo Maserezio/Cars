@@ -1,12 +1,1 @@
-{
-  "name":"Chrysler",
-  "specialization":[
-    "Luxury Vehicles"
-  ],
-  "founded":"1925",
-  "founder":[
-    "Walter Chrysler"
-  ],
-  "country":"United States",
-  "site":"www.chrysler.com"
-}
+{"name":"Chrysler","specialization":["Luxury Vehicles"],"founded":"1925","founder":["Walter Chrysler"],"country":"United States","site":"www.chrysler.com"}

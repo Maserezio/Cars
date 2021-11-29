@@ -1,12 +1,1 @@
-{
-  "name":"Tatra",
-  "specialization":[
-    "Manufacturer"
-  ],
-  "founded":"1850",
-  "founder":[
-    "Ignác Šustala"
-  ],
-  "country":"Czech Republic",
-  "site":"www.tatratrucks.com"
-}
+{"name":"Tatra","specialization":["Manufacturer"],"founded":"1850","founder":["Ignác Šustala"],"country":"Czech Republic","site":"www.tatratrucks.com"}

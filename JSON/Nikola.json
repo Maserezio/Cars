@@ -1,12 +1,1 @@
-{
-  "name":"Nikola",
-  "specialization":[
-    "Electric Vehicles"
-  ],
-  "founded":"2014",
-  "founder":[
-    "Trevor Milton"
-  ],
-  "country":"U.S.",
-  "site":"nikolamotor.com"
-}
+{"name":"Nikola","specialization":["Electric Vehicles"],"founded":"2014","founder":["Trevor Milton"],"country":"U.S.","site":"nikolamotor.com"}

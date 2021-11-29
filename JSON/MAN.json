@@ -1,10 +1,1 @@
-{
-  "name":"MAN",
-  "specialization":[
-    "Trucks"
-  ],
-  "founded":"1758",
-  "founder":[],
-  "country":"Germany",
-  "site":"www.mantruckandbus.com"
-}
+{"name":"MAN","specialization":["Trucks"],"founded":"1758","founder":[],"country":"Germany","site":"www.mantruckandbus.com"}

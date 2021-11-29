@@ -1,10 +1,1 @@
-{
-  "name":"Peterbilt",
-  "specialization":[
-    "Medium and Heavy-duty Trucks"
-  ],
-  "founded":"1939",
-  "founder":[],
-  "country":"United States",
-  "site":"www.peterbilt.com"
-}
+{"name":"Peterbilt","specialization":["Medium and Heavy-duty Trucks"],"founded":"1939","founder":[],"country":"United States","site":"www.peterbilt.com"}

@@ -1,10 +1,1 @@
-{
-  "name":"Grinnall",
-  "specialization":[
-    "Three-wheelers"
-  ],
-  "founded":"1991",
-  "founder":[],
-  "country":"United Kingdom",
-  "site":"www.grinnallcars.com"
-}
+{"name":"Grinnall","specialization":["Three-wheelers"],"founded":"1991","founder":[],"country":"United Kingdom","site":"www.grinnallcars.com"}

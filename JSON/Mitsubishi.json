@@ -1,12 +1,1 @@
-{
-  "name":"Mitsubishi",
-  "specialization":[
-    "Mass-Market Cars"
-  ],
-  "founded":"1970",
-  "founder":[
-    "Mitsubishi Heavy Industries"
-  ],
-  "country":"Japan",
-  "site":"www.mitsubishi-motors.com"
-}
+{"name":"Mitsubishi","specialization":["Mass-Market Cars"],"founded":"1970","founder":["Mitsubishi Heavy Industries"],"country":"Japan","site":"www.mitsubishi-motors.com"}

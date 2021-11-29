@@ -1,13 +1,1 @@
-{
-  "name":"DAF",
-  "specialization":[
-    "Trucks"
-  ],
-  "founded":"1993",
-  "founder":[
-    "Hub van Doorne",
-    "A.H. Huenges"
-  ],
-  "country":"Netherlands",
-  "site":"www.daf.com"
-}
+{"name":"DAF","specialization":["Trucks"],"founded":"1993","founder":["Hub van Doorne","A.H. Huenges"],"country":"Netherlands","site":"www.daf.com"}

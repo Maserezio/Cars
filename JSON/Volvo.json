@@ -1,13 +1,1 @@
-{
-  "name":"Volvo",
-  "specialization":[
-    "Luxury Vehicles"
-  ],
-  "founded":"1927",
-  "founder":[
-    "Gustav Larson",
-    "Assar Gabrielsson"
-  ],
-  "country":"Sweden",
-  "site":"www.volvo.com"
-}
+{"name":"Volvo","specialization":["Luxury Vehicles"],"founded":"1927","founder":["Gustav Larson","Assar Gabrielsson"],"country":"Sweden","site":"www.volvo.com"}

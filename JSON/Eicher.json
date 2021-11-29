@@ -1,10 +1,1 @@
-{
-  "name":"Eicher",
-  "specialization":[
-    "Trucks"
-  ],
-  "founded":"1948",
-  "founder":[],
-  "country":"India",
-  "site":"www.eicher.in"
-}
+{"name":"Eicher","specialization":["Trucks"],"founded":"1948","founder":[],"country":"India","site":"www.eicher.in"}

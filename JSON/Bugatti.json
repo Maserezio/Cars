@@ -1,12 +1,1 @@
-{
-  "name":"Bugatti",
-  "specialization":[
-    "Luxury Supercars"
-  ],
-  "founded":"1909",
-  "founder":[
-    "Ettore Bugatti"
-  ],
-  "country":"France",
-  "site":"www.bugatti.com"
-}
+{"name":"Bugatti","specialization":["Luxury Supercars"],"founded":"1909","founder":["Ettore Bugatti"],"country":"France","site":"www.bugatti.com"}

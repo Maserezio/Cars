@@ -1,12 +1,1 @@
-{
-  "name":"Acura",
-  "specialization":[
-    "Luxury Vehicles"
-  ],
-  "founded":"1986",
-  "founder":[
-    "Honda Motor Company"
-  ],
-  "country":"Japan",
-  "site":"www.acura.com"
-}
+{"name":"Acura","specialization":["Luxury Vehicles"],"founded":"1986","founder":["Honda Motor Company"],"country":"Japan","site":"www.acura.com"}

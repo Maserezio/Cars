@@ -1,12 +1,1 @@
-{
-  "name":"Daimler",
-  "specialization":[
-    "Manufacturer"
-  ],
-  "founded":"1886",
-  "founder":[
-    "Gottlieb Daimler"
-  ],
-  "country":"Germany",
-  "site":"www.daimler.com"
-}
+{"name":"Daimler","specialization":["Manufacturer"],"founded":"1886","founder":["Gottlieb Daimler"],"country":"Germany","site":"www.daimler.com"}

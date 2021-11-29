@@ -1,12 +1,1 @@
-{
-  "name":"Li Auto",
-  "specialization":[
-    "Electric Vehicles (PHEVs)"
-  ],
-  "founded":"2015",
-  "founder":[
-    "Li Xiang"
-  ],
-  "country":"China",
-  "site":"www.lixiang.com"
-}
+{"name":"Li Auto","specialization":["Electric Vehicles (PHEVs)"],"founded":"2015","founder":["Li Xiang"],"country":"China","site":"www.lixiang.com"}

@@ -1,14 +1,1 @@
-{
-  "name":"Ford Mustang",
-  "specialization":[
-    "Sports Cars"
-  ],
-  "founded":"1964",
-  "founder":[
-    "John Najjar",
-    "Philip T.",
-    "ClarkJoe Oros"
-  ],
-  "country":"",
-  "site":"https://www.ford.com/cars/mustang/"
-}
+{"name":"Ford Mustang","specialization":["Sports Cars"],"founded":"1964","founder":["John Najjar","Philip T.","ClarkJoe Oros"],"country":"","site":"https://www.ford.com/cars/mustang/"}

@@ -1,10 +1,1 @@
-{
-  "name":"Tauro Sport Auto",
-  "specialization":[
-    "Luxury Sports Cars"
-  ],
-  "founded":"2010",
-  "founder":[],
-  "country":"Spain",
-  "site":"www.tauro.eu"
-}
+{"name":"Tauro Sport Auto","specialization":["Luxury Sports Cars"],"founded":"2010","founder":[],"country":"Spain","site":"www.tauro.eu"}

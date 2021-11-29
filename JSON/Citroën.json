@@ -1,12 +1,1 @@
-{
-  "name":"Citroën",
-  "specialization":[
-    "Mass-Market Cars"
-  ],
-  "founded":"1919",
-  "founder":[
-    "André Citroën"
-  ],
-  "country":"France",
-  "site":"www.citroen.com"
-}
+{"name":"Citroën","specialization":["Mass-Market Cars"],"founded":"1919","founder":["André Citroën"],"country":"France","site":"www.citroen.com"}

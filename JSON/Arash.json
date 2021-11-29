@@ -1,12 +1,1 @@
-{
-  "name":"Arash",
-  "specialization":[
-    "Sports Cars"
-  ],
-  "founded":"1999",
-  "founder":[
-    "Arash Farboud"
-  ],
-  "country":"United Kingdom",
-  "site":"www.arashcars.com"
-}
+{"name":"Arash","specialization":["Sports Cars"],"founded":"1999","founder":["Arash Farboud"],"country":"United Kingdom","site":"www.arashcars.com"}

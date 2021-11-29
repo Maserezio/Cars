@@ -1,12 +1,1 @@
-{
-  "name":"Bufori",
-  "specialization":[
-    "Luxury Cars"
-  ],
-  "founded":"1986",
-  "founder":[
-    "Khouri Brothers"
-  ],
-  "country":"Malaysia",
-  "site":"www.bufori.com"
-}
+{"name":"Bufori","specialization":["Luxury Cars"],"founded":"1986","founder":["Khouri Brothers"],"country":"Malaysia","site":"www.bufori.com"}

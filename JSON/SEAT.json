@@ -1,12 +1,1 @@
-{
-  "name":"SEAT",
-  "specialization":[
-    "Compact Cars"
-  ],
-  "founded":"1950",
-  "founder":[
-    "Instituto Nacional de Industria"
-  ],
-  "country":"Spain",
-  "site":"www.seat.com"
-}
+{"name":"SEAT","specialization":["Compact Cars"],"founded":"1950","founder":["Instituto Nacional de Industria"],"country":"Spain","site":"www.seat.com"}

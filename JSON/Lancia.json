@@ -1,12 +1,1 @@
-{
-  "name":"Lancia",
-  "specialization":[
-    "Luxury Cars"
-  ],
-  "founded":"1906",
-  "founder":[
-    "Vincenzo Lancia"
-  ],
-  "country":"Italy",
-  "site":"www.lancia.com"
-}
+{"name":"Lancia","specialization":["Luxury Cars"],"founded":"1906","founder":["Vincenzo Lancia"],"country":"Italy","site":"www.lancia.com"}

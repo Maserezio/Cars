@@ -1,12 +1,1 @@
-{
-  "name":"Suzuki",
-  "specialization":[
-    "Economy Cars"
-  ],
-  "founded":"1909",
-  "founder":[
-    "Michio Suzuki"
-  ],
-  "country":"Japan",
-  "site":"www.suzuki.co.jp"
-}
+{"name":"Suzuki","specialization":["Economy Cars"],"founded":"1909","founder":["Michio Suzuki"],"country":"Japan","site":"www.suzuki.co.jp"}

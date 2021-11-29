@@ -1,13 +1,1 @@
-{
-  "name":"General Motors",
-  "specialization":[
-    "Manufacturer"
-  ],
-  "founded":"1908",
-  "founder":[
-    "William C. Durant",
-    "Charles Stewart Mott"
-  ],
-  "country":"United States",
-  "site":"www.gm.com"
-}
+{"name":"General Motors","specialization":["Manufacturer"],"founded":"1908","founder":["William C. Durant","Charles Stewart Mott"],"country":"United States","site":"www.gm.com"}

@@ -1,16 +1,1 @@
-{
-  "name":"Tesla",
-  "specialization":[
-    "Luxury Electric Vehicles"
-  ],
-  "founded":"2003",
-  "founder":[
-    "Elon Musk",
-    "J. B. Straubel",
-    "Martin Eberhard",
-    "Marc Tarpenning",
-    "Ian Wright"
-  ],
-  "country":"U.S.",
-  "site":"www.tesla.com"
-}
+{"name":"Tesla","specialization":["Luxury Electric Vehicles"],"founded":"2003","founder":["Elon Musk","J. B. Straubel","Martin Eberhard","Marc Tarpenning","Ian Wright"],"country":"U.S.","site":"www.tesla.com"}

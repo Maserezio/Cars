@@ -1,12 +1,1 @@
-{
-  "name":"TechArt",
-  "specialization":[
-    "Car Tuning"
-  ],
-  "founded":"1987",
-  "founder":[
-    "Thomas Behringer"
-  ],
-  "country":"Germany",
-  "site":"www.techart.de"
-}
+{"name":"TechArt","specialization":["Car Tuning"],"founded":"1987","founder":["Thomas Behringer"],"country":"Germany","site":"www.techart.de"}

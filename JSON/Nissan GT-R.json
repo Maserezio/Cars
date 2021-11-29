@@ -1,12 +1,1 @@
-{
-  "name":"Nissan GT-R",
-  "specialization":[
-    "Sports Cars"
-  ],
-  "founded":"2007",
-  "founder":[
-    "Shiro Nakamura"
-  ],
-  "country":"Japan",
-  "site":"www.nissanusa.com/sportscars/gt-r"
-}
+{"name":"Nissan GT-R","specialization":["Sports Cars"],"founded":"2007","founder":["Shiro Nakamura"],"country":"Japan","site":"www.nissanusa.com/sportscars/gt-r"}

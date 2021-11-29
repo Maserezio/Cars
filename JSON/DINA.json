@@ -1,12 +1,1 @@
-{
-  "name":"DINA",
-  "specialization":[
-    "Trucks"
-  ],
-  "founded":"1951",
-  "founder":[
-    "Henri Théodore Pigozzi"
-  ],
-  "country":"Mexico",
-  "site":"www.dina.com.mx"
-}
+{"name":"DINA","specialization":["Trucks"],"founded":"1951","founder":["Henri Théodore Pigozzi"],"country":"Mexico","site":"www.dina.com.mx"}

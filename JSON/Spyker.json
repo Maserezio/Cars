@@ -1,13 +1,1 @@
-{
-  "name":"Spyker",
-  "specialization":[
-    "Luxury Sports Cars"
-  ],
-  "founded":"1898",
-  "founder":[
-    "Maarten de Bruijn",
-    "Victor Muller"
-  ],
-  "country":"Netherlands",
-  "site":"www.spykercars.com"
-}
+{"name":"Spyker","specialization":["Luxury Sports Cars"],"founded":"1898","founder":["Maarten de Bruijn","Victor Muller"],"country":"Netherlands","site":"www.spykercars.com"}

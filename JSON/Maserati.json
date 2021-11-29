@@ -1,12 +1,1 @@
-{
-  "name":"Maserati",
-  "specialization":[
-    "Luxury Vehicles"
-  ],
-  "founded":"1914",
-  "founder":[
-    "Alfieri Maserati"
-  ],
-  "country":"Italy",
-  "site":"www.maserati.com"
-}
+{"name":"Maserati","specialization":["Luxury Vehicles"],"founded":"1914","founder":["Alfieri Maserati"],"country":"Italy","site":"www.maserati.com"}

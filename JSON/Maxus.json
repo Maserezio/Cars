@@ -1,11 +1,1 @@
-{
-  "name":"Maxus",
-  "specialization":[
-    "Pickup",
-    "Vans"
-  ],
-  "founded":"2011",
-  "founder":[],
-  "country":"China",
-  "site":"www.saicmaxus.com"
-}
+{"name":"Maxus","specialization":["Pickup","Vans"],"founded":"2011","founder":[],"country":"China","site":"www.saicmaxus.com"}

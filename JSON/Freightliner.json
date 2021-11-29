@@ -1,10 +1,1 @@
-{
-  "name":"Freightliner",
-  "specialization":[
-    "Medium and Heavy-duty Trucks"
-  ],
-  "founded":"1942",
-  "founder":[],
-  "country":"U.S.",
-  "site":"www.freightliner.com"
-}
+{"name":"Freightliner","specialization":["Medium and Heavy-duty Trucks"],"founded":"1942","founder":[],"country":"U.S.","site":"www.freightliner.com"}

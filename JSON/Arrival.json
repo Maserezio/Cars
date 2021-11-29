@@ -1,12 +1,1 @@
-{
-  "name":"Arrival",
-  "specialization":[
-    "Electric Vehicles"
-  ],
-  "founded":"2015",
-  "founder":[
-    "Denis Sverdlov"
-  ],
-  "country":"United Kingdom",
-  "site":"www.arrival.com"
-}
+{"name":"Arrival","specialization":["Electric Vehicles"],"founded":"2015","founder":["Denis Sverdlov"],"country":"United Kingdom","site":"www.arrival.com"}

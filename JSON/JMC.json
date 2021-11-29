@@ -1,11 +1,1 @@
-{
-  "name":"JMC",
-  "specialization":[
-    "Pickup",
-    "Vans"
-  ],
-  "founded":"1968",
-  "founder":[],
-  "country":"China",
-  "site":"www.jmc.com.cn"
-}
+{"name":"JMC","specialization":["Pickup","Vans"],"founded":"1968","founder":[],"country":"China","site":"www.jmc.com.cn"}

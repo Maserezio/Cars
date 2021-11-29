@@ -1,12 +1,1 @@
-{
-  "name":"Bentley",
-  "specialization":[
-    "Ultra-luxury Cars"
-  ],
-  "founded":"1919",
-  "founder":[
-    "Rolls-Royce Motors"
-  ],
-  "country":"United Kingdom",
-  "site":"www.bentleymotors.com"
-}
+{"name":"Bentley","specialization":["Ultra-luxury Cars"],"founded":"1919","founder":["Rolls-Royce Motors"],"country":"United Kingdom","site":"www.bentleymotors.com"}

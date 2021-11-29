@@ -1,13 +1,1 @@
-{
-  "name":"Jaguar",
-  "specialization":[
-    "Luxury Vehicles"
-  ],
-  "founded":"1922",
-  "founder":[
-    "William Lyons",
-    "William Walmsley"
-  ],
-  "country":"United Kingdom",
-  "site":"www.jaguar.com"
-}
+{"name":"Jaguar","specialization":["Luxury Vehicles"],"founded":"1922","founder":["William Lyons","William Walmsley"],"country":"United Kingdom","site":"www.jaguar.com"}

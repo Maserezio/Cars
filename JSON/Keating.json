@@ -1,12 +1,1 @@
-{
-  "name":"Keating",
-  "specialization":[
-    "Supercars"
-  ],
-  "founded":"2006",
-  "founder":[
-    "Anthony Keating"
-  ],
-  "country":"United Kingdom",
-  "site":"www.keatingsupercars.com"
-}
+{"name":"Keating","specialization":["Supercars"],"founded":"2006","founder":["Anthony Keating"],"country":"United Kingdom","site":"www.keatingsupercars.com"}

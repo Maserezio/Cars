@@ -1,15 +1,1 @@
-{
-  "name":"XPeng",
-  "specialization":[
-    "Electric Vehicles"
-  ],
-  "founded":"2014",
-  "founder":[
-    "He Xiaopeng",
-    "Xia Heng",
-    "He Tao",
-    "Yang Chunlei"
-  ],
-  "country":"China",
-  "site":"www.xiaopeng.com"
-}
+{"name":"XPeng","specialization":["Electric Vehicles"],"founded":"2014","founder":["He Xiaopeng","Xia Heng","He Tao","Yang Chunlei"],"country":"China","site":"www.xiaopeng.com"}

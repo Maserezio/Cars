@@ -1,12 +1,1 @@
-{
-  "name":"SSC",
-  "specialization":[
-    "Luxury Supercars"
-  ],
-  "founded":"1998",
-  "founder":[
-    "Jerod Shelby"
-  ],
-  "country":"United States",
-  "site":"www.sscnorthamerica.com"
-}
+{"name":"SSC","specialization":["Luxury Supercars"],"founded":"1998","founder":["Jerod Shelby"],"country":"United States","site":"www.sscnorthamerica.com"}

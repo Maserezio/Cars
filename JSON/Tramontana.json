@@ -1,10 +1,1 @@
-{
-  "name":"Tramontana",
-  "specialization":[
-    "Sports Cars"
-  ],
-  "founded":"2007",
-  "founder":[],
-  "country":"Spain",
-  "site":"www.tramontanacorp.com"
-}
+{"name":"Tramontana","specialization":["Sports Cars"],"founded":"2007","founder":[],"country":"Spain","site":"www.tramontanacorp.com"}

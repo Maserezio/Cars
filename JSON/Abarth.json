@@ -1,12 +1,1 @@
-{
-  "name":"Abarth",
-  "specialization":[
-    "Racing cars"
-  ],
-  "founded":"1949",
-  "founder":[
-    "Carlo Abarth"
-  ],
-  "country":"Italy",
-  "site":"www.abarth.it"
-}
+{"name":"Abarth","specialization":["Racing cars"],"founded":"1949","founder":["Carlo Abarth"],"country":"Italy","site":"www.abarth.it"}

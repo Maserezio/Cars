@@ -1,10 +1,1 @@
-{
-  "name":"Gardner Douglas",
-  "specialization":[
-    "Sports Cars"
-  ],
-  "founded":"1990",
-  "founder":[],
-  "country":"United Kingdom",
-  "site":"www.gdcars.com"
-}
+{"name":"Gardner Douglas","specialization":["Sports Cars"],"founded":"1990","founder":[],"country":"United Kingdom","site":"www.gdcars.com"}

@@ -1,12 +1,1 @@
-{
-  "name":"Mazda",
-  "specialization":[
-    "Mass-Market Cars"
-  ],
-  "founded":"1920",
-  "founder":[
-    "Jujiro Matsuda"
-  ],
-  "country":"Japan",
-  "site":"www.mazda.com"
-}
+{"name":"Mazda","specialization":["Mass-Market Cars"],"founded":"1920","founder":["Jujiro Matsuda"],"country":"Japan","site":"www.mazda.com"}

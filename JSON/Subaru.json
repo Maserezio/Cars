@@ -1,12 +1,1 @@
-{
-  "name":"Subaru",
-  "specialization":[
-    "Mass-Market Cars"
-  ],
-  "founded":"1953",
-  "founder":[
-    "Kenji Kita"
-  ],
-  "country":"Japan",
-  "site":"www.subaru-global.com"
-}
+{"name":"Subaru","specialization":["Mass-Market Cars"],"founded":"1953","founder":["Kenji Kita"],"country":"Japan","site":"www.subaru-global.com"}

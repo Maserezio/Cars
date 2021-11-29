@@ -1,12 +1,1 @@
-{
-  "name":"Aspark",
-  "specialization":[
-    "Luxury Electric Vehicles"
-  ],
-  "founded":"2005",
-  "founder":[
-    "Masanori Yoshida"
-  ],
-  "country":"Japan",
-  "site":"asparkcompany.com"
-}
+{"name":"Aspark","specialization":["Luxury Electric Vehicles"],"founded":"2005","founder":["Masanori Yoshida"],"country":"Japan","site":"asparkcompany.com"}

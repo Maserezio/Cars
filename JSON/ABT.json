@@ -1,12 +1,1 @@
-{
-  "name":"ABT",
-  "specialization":[
-    "Car Tuning"
-  ],
-  "founded":"1896",
-  "founder":[
-    "Johann Abt"
-  ],
-  "country":"Germany",
-  "site":"www.abt-sportsline.de"
-}
+{"name":"ABT","specialization":["Car Tuning"],"founded":"1896","founder":["Johann Abt"],"country":"Germany","site":"www.abt-sportsline.de"}

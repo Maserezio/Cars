@@ -1,10 +1,1 @@
-{
-  "name":"UAZ",
-  "specialization":[
-    "Commercial Vehicles"
-  ],
-  "founded":"1941",
-  "founder":[],
-  "country":"Russia",
-  "site":"www.uaz.ru"
-}
+{"name":"UAZ","specialization":["Commercial Vehicles"],"founded":"1941","founder":[],"country":"Russia","site":"www.uaz.ru"}

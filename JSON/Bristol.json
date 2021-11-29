@@ -1,10 +1,1 @@
-{
-  "name":"Bristol",
-  "specialization":[
-    "Luxury Cars"
-  ],
-  "founded":"1945",
-  "founder":[],
-  "country":"United Kingdom",
-  "site":"www.bristolcars.co.uk"
-}
+{"name":"Bristol","specialization":["Luxury Cars"],"founded":"1945","founder":[],"country":"United Kingdom","site":"www.bristolcars.co.uk"}

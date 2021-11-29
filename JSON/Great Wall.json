@@ -1,10 +1,1 @@
-{
-  "name":"Great Wall",
-  "specialization":[
-    "Compact SUVs"
-  ],
-  "founded":"1984",
-  "founder":[],
-  "country":"China",
-  "site":"www.gwm.com.cn"
-}
+{"name":"Great Wall","specialization":["Compact SUVs"],"founded":"1984","founder":[],"country":"China","site":"www.gwm.com.cn"}

@@ -1,12 +1,1 @@
-{
-  "name":"Lexus",
-  "specialization":[
-    "Luxury Vehicles"
-  ],
-  "founded":"1983",
-  "founder":[
-    "Eiji Toyoda"
-  ],
-  "country":"Japan",
-  "site":"www.lexus.com"
-}
+{"name":"Lexus","specialization":["Luxury Vehicles"],"founded":"1983","founder":["Eiji Toyoda"],"country":"Japan","site":"www.lexus.com"}

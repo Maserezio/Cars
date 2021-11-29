@@ -1,12 +1,1 @@
-{
-  "name":"Land Rover",
-  "specialization":[
-    "Luxury Sport Utility Vehicles"
-  ],
-  "founded":"1948",
-  "founder":[
-    "Maurice Wilks"
-  ],
-  "country":"United Kingdom",
-  "site":"www.landrover.com"
-}
+{"name":"Land Rover","specialization":["Luxury Sport Utility Vehicles"],"founded":"1948","founder":["Maurice Wilks"],"country":"United Kingdom","site":"www.landrover.com"}

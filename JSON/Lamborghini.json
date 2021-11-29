@@ -1,12 +1,1 @@
-{
-  "name":"Lamborghini",
-  "specialization":[
-    "Luxury Sports Cars"
-  ],
-  "founded":"1963",
-  "founder":[
-    "Ferruccio Lamborghini"
-  ],
-  "country":"Italy",
-  "site":"www.lamborghini.com"
-}
+{"name":"Lamborghini","specialization":["Luxury Sports Cars"],"founded":"1963","founder":["Ferruccio Lamborghini"],"country":"Italy","site":"www.lamborghini.com"}

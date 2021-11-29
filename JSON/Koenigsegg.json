@@ -1,12 +1,1 @@
-{
-  "name":"Koenigsegg",
-  "specialization":[
-    "Luxury Supercars"
-  ],
-  "founded":"1994",
-  "founder":[
-    "Christian von Koenigsegg"
-  ],
-  "country":"Sweden",
-  "site":"www.koenigsegg.com"
-}
+{"name":"Koenigsegg","specialization":["Luxury Supercars"],"founded":"1994","founder":["Christian von Koenigsegg"],"country":"Sweden","site":"www.koenigsegg.com"}

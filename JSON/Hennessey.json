@@ -1,12 +1,1 @@
-{
-  "name":"Hennessey",
-  "specialization":[
-    "Supercars"
-  ],
-  "founded":"1991",
-  "founder":[
-    "John Hennessey"
-  ],
-  "country":"United States",
-  "site":"www.hennesseyperformance.com"
-}
+{"name":"Hennessey","specialization":["Supercars"],"founded":"1991","founder":["John Hennessey"],"country":"United States","site":"www.hennesseyperformance.com"}

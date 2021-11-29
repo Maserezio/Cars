@@ -1,12 +1,1 @@
-{
-  "name":"Lordstown",
-  "specialization":[
-    "Electric Vehicles"
-  ],
-  "founded":"2018",
-  "founder":[
-    "Steve Burns"
-  ],
-  "country":"U.S.",
-  "site":"lordstownmotors.com"
-}
+{"name":"Lordstown","specialization":["Electric Vehicles"],"founded":"2018","founder":["Steve Burns"],"country":"U.S.","site":"lordstownmotors.com"}

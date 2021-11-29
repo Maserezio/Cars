@@ -1,12 +1,1 @@
-{
-  "name":"Westfield",
-  "specialization":[
-    "Roadsters"
-  ],
-  "founded":"1982",
-  "founder":[
-    "Chris Smith"
-  ],
-  "country":"United Kingdom",
-  "site":"www.westfield-sportscars.co.uk"
-}
+{"name":"Westfield","specialization":["Roadsters"],"founded":"1982","founder":["Chris Smith"],"country":"United Kingdom","site":"www.westfield-sportscars.co.uk"}

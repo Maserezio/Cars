@@ -1,12 +1,1 @@
-{
-  "name":"Autobacs",
-  "specialization":[
-    "Automobiles"
-  ],
-  "founded":"1947",
-  "founder":[
-    "Toshio Sumino"
-  ],
-  "country":"Japan",
-  "site":"www.autobacs.co.jp"
-}
+{"name":"Autobacs","specialization":["Automobiles"],"founded":"1947","founder":["Toshio Sumino"],"country":"Japan","site":"www.autobacs.co.jp"}

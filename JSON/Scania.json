@@ -1,12 +1,1 @@
-{
-  "name":"Scania",
-  "specialization":[
-    "Heavy-duty Trucks"
-  ],
-  "founded":"1891",
-  "founder":[
-    "Gustaf Erikson"
-  ],
-  "country":"Sweden",
-  "site":"www.scania.com"
-}
+{"name":"Scania","specialization":["Heavy-duty Trucks"],"founded":"1891","founder":["Gustaf Erikson"],"country":"Sweden","site":"www.scania.com"}

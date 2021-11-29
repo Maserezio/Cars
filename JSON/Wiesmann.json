@@ -1,13 +1,1 @@
-{
-  "name":"Wiesmann",
-  "specialization":[
-    "Convertibles"
-  ],
-  "founded":"1988",
-  "founder":[
-    "Martin Wiesmann",
-    "Friedhelm Wiesmann"
-  ],
-  "country":"Germany",
-  "site":"www.wiesmann.com"
-}
+{"name":"Wiesmann","specialization":["Convertibles"],"founded":"1988","founder":["Martin Wiesmann","Friedhelm Wiesmann"],"country":"Germany","site":"www.wiesmann.com"}

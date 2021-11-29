@@ -1,10 +1,1 @@
-{
-  "name":"CAMC",
-  "specialization":[
-    "Trucks"
-  ],
-  "founded":"1999",
-  "founder":[],
-  "country":"China",
-  "site":"www.camc.cc"
-}
+{"name":"CAMC","specialization":["Trucks"],"founded":"1999","founder":[],"country":"China","site":"www.camc.cc"}

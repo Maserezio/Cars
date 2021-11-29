@@ -1,14 +1,1 @@
-{
-  "name":"Renault",
-  "specialization":[
-    "Mass-Market Cars"
-  ],
-  "founded":"1899",
-  "founder":[
-    "Louis Renault",
-    "Marcel Renault",
-    "Fernand Renault"
-  ],
-  "country":"France",
-  "site":"www.renault.com"
-}
+{"name":"Renault","specialization":["Mass-Market Cars"],"founded":"1899","founder":["Louis Renault","Marcel Renault","Fernand Renault"],"country":"France","site":"www.renault.com"}

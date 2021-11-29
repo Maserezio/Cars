@@ -1,12 +1,1 @@
-{
-  "name":"Lister",
-  "specialization":[
-    "Sports Cars"
-  ],
-  "founded":"1954",
-  "founder":[
-    "Brian Lister"
-  ],
-  "country":"United Kingdom",
-  "site":"www.listercars.com"
-}
+{"name":"Lister","specialization":["Sports Cars"],"founded":"1954","founder":["Brian Lister"],"country":"United Kingdom","site":"www.listercars.com"}

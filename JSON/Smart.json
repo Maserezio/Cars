@@ -1,12 +1,1 @@
-{
-  "name":"Smart",
-  "specialization":[
-    "Luxury Small Cars"
-  ],
-  "founded":"1994",
-  "founder":[
-    "Nicolas Hayek"
-  ],
-  "country":"Germany",
-  "site":"www.smart.com"
-}
+{"name":"Smart","specialization":["Luxury Small Cars"],"founded":"1994","founder":["Nicolas Hayek"],"country":"Germany","site":"www.smart.com"}

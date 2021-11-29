@@ -1,13 +1,1 @@
-{
-  "name":"GMC",
-  "specialization":[
-    "Pickup Trucks",
-    "Other"
-  ],
-  "founded":"1911",
-  "founder":[
-    "William C. Durant"
-  ],
-  "country":"United States",
-  "site":"www.gmc.com"
-}
+{"name":"GMC","specialization":["Pickup Trucks","Other"],"founded":"1911","founder":["William C. Durant"],"country":"United States","site":"www.gmc.com"}

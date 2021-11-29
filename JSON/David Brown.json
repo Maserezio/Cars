@@ -1,10 +1,1 @@
-{
-  "name":"David Brown",
-  "specialization":[
-    "Limited Edition Automobiles"
-  ],
-  "founded":"2013",
-  "founder":[],
-  "country":"United Kingdom",
-  "site":"www.davidbrownautomotive.com"
-}
+{"name":"David Brown","specialization":["Limited Edition Automobiles"],"founded":"2013","founder":[],"country":"United Kingdom","site":"www.davidbrownautomotive.com"}

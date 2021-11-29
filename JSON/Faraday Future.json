@@ -1,10 +1,1 @@
-{
-  "name":"Faraday Future",
-  "specialization":[
-    "Electric Vehicles"
-  ],
-  "founded":"2014",
-  "founder":[],
-  "country":"United States",
-  "site":"www.ff.com"
-}
+{"name":"Faraday Future","specialization":["Electric Vehicles"],"founded":"2014","founder":[],"country":"United States","site":"www.ff.com"}

@@ -1,12 +1,1 @@
-{
-  "name":"Prodrive",
-  "specialization":[
-    "Racing Cars"
-  ],
-  "founded":"1984",
-  "founder":[
-    "David Richards"
-  ],
-  "country":"United Kingdom",
-  "site":"www.prodrive.com"
-}
+{"name":"Prodrive","specialization":["Racing Cars"],"founded":"1984","founder":["David Richards"],"country":"United Kingdom","site":"www.prodrive.com"}

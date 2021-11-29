@@ -1,12 +1,1 @@
-{
-  "name":"Saab",
-  "specialization":[
-    "Manufacturer"
-  ],
-  "founded":"1937",
-  "founder":[
-    "Saab AB"
-  ],
-  "country":"Sweden",
-  "site":"www.saabcars.com"
-}
+{"name":"Saab","specialization":["Manufacturer"],"founded":"1937","founder":["Saab AB"],"country":"Sweden","site":"www.saabcars.com"}

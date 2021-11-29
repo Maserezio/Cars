@@ -1,12 +1,1 @@
-{
-  "name":"Lifan",
-  "specialization":[
-    "Economy Cars"
-  ],
-  "founded":"1992",
-  "founder":[
-    "Yin Mingshan"
-  ],
-  "country":"China",
-  "site":"www.lifan.com"
-}
+{"name":"Lifan","specialization":["Economy Cars"],"founded":"1992","founder":["Yin Mingshan"],"country":"China","site":"www.lifan.com"}

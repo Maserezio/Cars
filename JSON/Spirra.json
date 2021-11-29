@@ -1,10 +1,1 @@
-{
-  "name":"Spirra",
-  "specialization":[
-    "Sports Cars"
-  ],
-  "founded":"2007",
-  "founder":[],
-  "country":"South Korea",
-  "site":""
-}
+{"name":"Spirra","specialization":["Sports Cars"],"founded":"2007","founder":[],"country":"South Korea","site":""}

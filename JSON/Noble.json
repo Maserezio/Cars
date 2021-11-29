@@ -1,12 +1,1 @@
-{
-  "name":"Noble",
-  "specialization":[
-    "Sports Cars"
-  ],
-  "founded":"1999",
-  "founder":[
-    "Lee Noble in Leeds"
-  ],
-  "country":"United Kingdom",
-  "site":"www.noblecars.com"
-}
+{"name":"Noble","specialization":["Sports Cars"],"founded":"1999","founder":["Lee Noble in Leeds"],"country":"United Kingdom","site":"www.noblecars.com"}

@@ -1,10 +1,1 @@
-{
-  "name":"Sinotruk (CNHTC)",
-  "specialization":[
-    "Trucks"
-  ],
-  "founded":"1935",
-  "founder":[],
-  "country":"China",
-  "site":"www.cnhtc.com.cn"
-}
+{"name":"Sinotruk (CNHTC)","specialization":["Trucks"],"founded":"1935","founder":[],"country":"China","site":"www.cnhtc.com.cn"}

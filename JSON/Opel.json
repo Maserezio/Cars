@@ -1,12 +1,1 @@
-{
-  "name":"Opel",
-  "specialization":[
-    "Mass-Market Cars"
-  ],
-  "founded":"1862",
-  "founder":[
-    "Adam Opel"
-  ],
-  "country":"Germany",
-  "site":"www.opel.com"
-}
+{"name":"Opel","specialization":["Mass-Market Cars"],"founded":"1862","founder":["Adam Opel"],"country":"Germany","site":"www.opel.com"}

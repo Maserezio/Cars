@@ -1,10 +1,1 @@
-{
-  "name":"MAZ",
-  "specialization":[
-    "Trucks & Bus"
-  ],
-  "founded":"1944",
-  "founder":[],
-  "country":"Belarus",
-  "site":"www.maz.by"
-}
+{"name":"MAZ","specialization":["Trucks & Bus"],"founded":"1944","founder":[],"country":"Belarus","site":"www.maz.by"}

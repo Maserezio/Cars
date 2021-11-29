@@ -1,12 +1,1 @@
-{
-  "name":"Vauxhall",
-  "specialization":[
-    "Mass-Market Cars"
-  ],
-  "founded":"1857",
-  "founder":[
-    "Alexander Wilson"
-  ],
-  "country":"United Kingdom",
-  "site":"www.vauxhall.co.uk"
-}
+{"name":"Vauxhall","specialization":["Mass-Market Cars"],"founded":"1857","founder":["Alexander Wilson"],"country":"United Kingdom","site":"www.vauxhall.co.uk"}

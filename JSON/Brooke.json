@@ -1,10 +1,1 @@
-{
-  "name":"Brooke",
-  "specialization":[
-    "Sports Cars"
-  ],
-  "founded":"2002",
-  "founder":[],
-  "country":"United Kingdom",
-  "site":"www.brookecars.co.uk"
-}
+{"name":"Brooke","specialization":["Sports Cars"],"founded":"2002","founder":[],"country":"United Kingdom","site":"www.brookecars.co.uk"}

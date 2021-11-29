@@ -1,12 +1,1 @@
-{
-  "name":"Spania GTA",
-  "specialization":[
-    "Sports Cars"
-  ],
-  "founded":"1994",
-  "founder":[
-    "Domingo Ochoa"
-  ],
-  "country":"Spain",
-  "site":"www.spaniagta.com"
-}
+{"name":"Spania GTA","specialization":["Sports Cars"],"founded":"1994","founder":["Domingo Ochoa"],"country":"Spain","site":"www.spaniagta.com"}

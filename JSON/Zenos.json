@@ -1,13 +1,1 @@
-{
-  "name":"Zenos",
-  "specialization":[
-    "Sports Cars"
-  ],
-  "founded":"2012",
-  "founder":[
-    "Ansar Ali",
-    "Mark Edwards"
-  ],
-  "country":"United Kingdom",
-  "site":"www.zenoscars.com"
-}
+{"name":"Zenos","specialization":["Sports Cars"],"founded":"2012","founder":["Ansar Ali","Mark Edwards"],"country":"United Kingdom","site":"www.zenoscars.com"}

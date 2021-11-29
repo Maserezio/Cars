@@ -1,11 +1,1 @@
-{
-  "name":"Datsun",
-  "specialization":[
-    "Light Trucks",
-    "Economy Cars"
-  ],
-  "founded":"2013",
-  "founder":[],
-  "country":"Japan",
-  "site":"www.datsun.com"
-}
+{"name":"Datsun","specialization":["Light Trucks","Economy Cars"],"founded":"2013","founder":[],"country":"Japan","site":"www.datsun.com"}

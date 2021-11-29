@@ -1,12 +1,1 @@
-{
-  "name":"Donkervoort",
-  "specialization":[
-    "Roadsters"
-  ],
-  "founded":"1978",
-  "founder":[
-    "J.A. Donkervoort"
-  ],
-  "country":"Netherlands",
-  "site":"www.donkervoort.com"
-}
+{"name":"Donkervoort","specialization":["Roadsters"],"founded":"1978","founder":["J.A. Donkervoort"],"country":"Netherlands","site":"www.donkervoort.com"}

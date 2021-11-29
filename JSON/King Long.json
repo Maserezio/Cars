@@ -1,11 +1,1 @@
-{
-  "name":"King Long",
-  "specialization":[
-    "Buses",
-    "Minibuses"
-  ],
-  "founded":"1988",
-  "founder":[],
-  "country":"China",
-  "site":"www.king-long.com"
-}
+{"name":"King Long","specialization":["Buses","Minibuses"],"founded":"1988","founder":[],"country":"China","site":"www.king-long.com"}

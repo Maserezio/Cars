@@ -1,12 +1,1 @@
-{
-  "name":"Lagonda",
-  "specialization":[
-    "Ultra-luxury Cars"
-  ],
-  "founded":"1906",
-  "founder":[
-    "Wilbur Gunn"
-  ],
-  "country":"United Kingdom",
-  "site":"www.astonmartin.com/lagonda"
-}
+{"name":"Lagonda","specialization":["Ultra-luxury Cars"],"founded":"1906","founder":["Wilbur Gunn"],"country":"United Kingdom","site":"www.astonmartin.com/lagonda"}

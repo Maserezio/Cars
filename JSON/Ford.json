@@ -1,12 +1,1 @@
-{
-  "name":"Ford",
-  "specialization":[
-    "Mass-Market Cars"
-  ],
-  "founded":"1903",
-  "founder":[
-    "Henry Ford"
-  ],
-  "country":"U.S.",
-  "site":"www.ford.com"
-}
+{"name":"Ford","specialization":["Mass-Market Cars"],"founded":"1903","founder":["Henry Ford"],"country":"U.S.","site":"www.ford.com"}

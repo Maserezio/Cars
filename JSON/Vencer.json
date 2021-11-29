@@ -1,12 +1,1 @@
-{
-  "name":"Vencer",
-  "specialization":[
-    "Sports Cars"
-  ],
-  "founded":"2010",
-  "founder":[
-    "Robert Cobben"
-  ],
-  "country":"Netherlands",
-  "site":"www.vencer.nl"
-}
+{"name":"Vencer","specialization":["Sports Cars"],"founded":"2010","founder":["Robert Cobben"],"country":"Netherlands","site":"www.vencer.nl"}

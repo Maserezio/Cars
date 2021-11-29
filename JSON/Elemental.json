@@ -1,10 +1,1 @@
-{
-  "name":"Elemental",
-  "specialization":[
-    "Roadsters"
-  ],
-  "founded":"2012",
-  "founder":[],
-  "country":"United Kingdom",
-  "site":"www.elementalcars.co.uk"
-}
+{"name":"Elemental","specialization":["Roadsters"],"founded":"2012","founder":[],"country":"United Kingdom","site":"www.elementalcars.co.uk"}

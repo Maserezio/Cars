@@ -1,12 +1,1 @@
-{
-  "name":"Maybach",
-  "specialization":[
-    "Ultra-luxury Cars"
-  ],
-  "founded":"1909",
-  "founder":[
-    "Wilhelm Maybach"
-  ],
-  "country":"Germany",
-  "site":"www.mercedes-benz.com"
-}
+{"name":"Maybach","specialization":["Ultra-luxury Cars"],"founded":"1909","founder":["Wilhelm Maybach"],"country":"Germany","site":"www.mercedes-benz.com"}

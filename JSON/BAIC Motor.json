@@ -1,10 +1,1 @@
-{
-  "name":"BAIC Motor",
-  "specialization":[
-    "Manufacturer"
-  ],
-  "founded":"2010",
-  "founder":[],
-  "country":"China",
-  "site":"www.baicmotor.com"
-}
+{"name":"BAIC Motor","specialization":["Manufacturer"],"founded":"2010","founder":[],"country":"China","site":"www.baicmotor.com"}

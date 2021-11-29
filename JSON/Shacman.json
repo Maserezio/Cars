@@ -1,10 +1,1 @@
-{
-  "name":"Shacman",
-  "specialization":[
-    "Trucks"
-  ],
-  "founded":"1968",
-  "founder":[],
-  "country":"China",
-  "site":"www.sxqc.com"
-}
+{"name":"Shacman","specialization":["Trucks"],"founded":"1968","founder":[],"country":"China","site":"www.sxqc.com"}

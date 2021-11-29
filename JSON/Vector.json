@@ -1,12 +1,1 @@
-{
-  "name":"Vector",
-  "specialization":[
-    "Sports Cars"
-  ],
-  "founded":"1971",
-  "founder":[
-    "Gerald Wiegert"
-  ],
-  "country":"United States",
-  "site":"www.vectormotors.com"
-}
+{"name":"Vector","specialization":["Sports Cars"],"founded":"1971","founder":["Gerald Wiegert"],"country":"United States","site":"www.vectormotors.com"}
